@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diframirezro
-- 👀 I’m interested in physics, bussnies and software 
+- 👀 I’m interested in physics, software and enviroment science 
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
